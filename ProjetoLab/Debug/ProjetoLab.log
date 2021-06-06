@@ -1,0 +1,10 @@
+﻿  jogador.cpp
+  jogo.cpp
+  Main.cpp
+  peca.cpp
+  ponto.cpp
+  tabuleiro.cpp
+  Generating Code...
+C:\Users\ROG\Google Drive\uni\1ºano\2º semestre\lab\damas\ProjetoLab\peca.cpp(278): warning C4715: 'peca::moveavailable': not all control paths return a value
+C:\Users\ROG\Google Drive\uni\1ºano\2º semestre\lab\damas\ProjetoLab\peca.cpp(23): warning C4715: 'peca::ocupado': not all control paths return a value
+  ProjetoLab.vcxproj -> C:\Users\ROG\Google Drive\uni\1ºano\2º semestre\lab\damas\Debug\ProjetoLab.exe
